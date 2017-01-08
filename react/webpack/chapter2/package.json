@@ -1,0 +1,16 @@
+{
+  "name": "react-webpack-chap2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "teren <terenyeung@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "html-webpack-plugin": "^1.7.0",
+    "style-loader": "^0.13.1"
+  }
+}
